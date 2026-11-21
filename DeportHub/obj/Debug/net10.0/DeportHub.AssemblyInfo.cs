@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeportHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d4e3d55741968a33f4771bed241762c04ace833")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22cb83425e258b0fef2659908545a7dccac88147")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeportHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeportHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
