@@ -10,4 +10,10 @@
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.13"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="..\..\..\.dotnet\sdk\10.0.402\Sdks\Microsoft.NET.Sdk\analyzers\build\config\firebase-credentials.json">
+        <Link>config\firebase-credentials.json</Link>
+      </Content>
+    </ItemGroup>
+
 </Project>
